@@ -1,11 +1,10 @@
-package Varinit;
+package Example;
 
 /**
  * 현재 클래스는 변수 초기화에 대한 클래스입니다.
  * */
 
-public class Main {
-
+public class initialization {
     /**
      * 간단하게 변수 초기화 하기
      * */
@@ -19,4 +18,5 @@ public class Main {
         System.out.println(year);
         System.out.println(age);
     }
+
 }
